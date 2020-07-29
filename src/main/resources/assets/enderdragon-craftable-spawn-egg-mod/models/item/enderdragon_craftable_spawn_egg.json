@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "enderdragon-craftable-spawn-egg-mod:item/enderdragon_craftable_spawn_egg"
+  }
+}
