@@ -1,0 +1,2 @@
+# EnderdragonCraftableSpawnEggMod
+エンダードラゴンのスポーンエッグを追加するMOD。クラフト可能。
