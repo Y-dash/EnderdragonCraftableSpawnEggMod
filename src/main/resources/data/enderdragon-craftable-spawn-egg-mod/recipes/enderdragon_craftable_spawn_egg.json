@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HHH",
+    "SSS",
+    "PPP"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "S": {
+      "item": "minecraft:end_stone"
+    },
+    "P": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "enderdragon-craftable-spawn-egg-mod:enderdragon_craftable_spawn_egg"
+  }
+}
